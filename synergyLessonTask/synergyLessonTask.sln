@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "synergyLessonTask", "synergyLessonTask\synergyLessonTask.csproj", "{E9E4E9B8-60CB-4395-9F92-0E96724A66F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yearUnitTest", "yearUnitTest\yearUnitTest.csproj", "{7B464330-FA87-4882-89F3-E1273843F8D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9E4E9B8-60CB-4395-9F92-0E96724A66F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E4E9B8-60CB-4395-9F92-0E96724A66F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E4E9B8-60CB-4395-9F92-0E96724A66F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E4E9B8-60CB-4395-9F92-0E96724A66F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B464330-FA87-4882-89F3-E1273843F8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B464330-FA87-4882-89F3-E1273843F8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B464330-FA87-4882-89F3-E1273843F8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B464330-FA87-4882-89F3-E1273843F8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D8B6CC9-23A3-462B-A529-7F7D59515549}
+	EndGlobalSection
+EndGlobal

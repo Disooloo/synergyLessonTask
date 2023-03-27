@@ -1,0 +1,8 @@
+D:\Project\Синергия\synergyLessonTask\CurrentYear\bin\Debug\CurrentYear.exe.config
+D:\Project\Синергия\synergyLessonTask\CurrentYear\bin\Debug\CurrentYear.exe
+D:\Project\Синергия\synergyLessonTask\CurrentYear\bin\Debug\CurrentYear.pdb
+D:\Project\Синергия\synergyLessonTask\CurrentYear\obj\Debug\CurrentYear.csproj.AssemblyReference.cache
+D:\Project\Синергия\synergyLessonTask\CurrentYear\obj\Debug\CurrentYear.csproj.SuggestedBindingRedirects.cache
+D:\Project\Синергия\synergyLessonTask\CurrentYear\obj\Debug\CurrentYear.csproj.CoreCompileInputs.cache
+D:\Project\Синергия\synergyLessonTask\CurrentYear\obj\Debug\CurrentYear.exe
+D:\Project\Синергия\synergyLessonTask\CurrentYear\obj\Debug\CurrentYear.pdb
