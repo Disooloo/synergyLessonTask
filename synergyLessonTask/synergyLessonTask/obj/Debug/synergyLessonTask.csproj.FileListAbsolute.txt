@@ -6,3 +6,11 @@ D:\Project\Синергия\synergyLessonTask\synergyLessonTask\obj\Debug\synerg
 D:\Project\Синергия\synergyLessonTask\synergyLessonTask\obj\Debug\synergyLessonTask.csproj.CoreCompileInputs.cache
 D:\Project\Синергия\synergyLessonTask\synergyLessonTask\obj\Debug\synergyLessonTask.exe
 D:\Project\Синергия\synergyLessonTask\synergyLessonTask\obj\Debug\synergyLessonTask.pdb
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask\bin\Debug\synergyLessonTask.exe.config
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask\bin\Debug\synergyLessonTask.exe
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask\bin\Debug\synergyLessonTask.pdb
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask\obj\Debug\synergyLessonTask.csproj.AssemblyReference.cache
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask\obj\Debug\synergyLessonTask.csproj.SuggestedBindingRedirects.cache
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask\obj\Debug\synergyLessonTask.csproj.CoreCompileInputs.cache
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask\obj\Debug\synergyLessonTask.exe
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask\obj\Debug\synergyLessonTask.pdb

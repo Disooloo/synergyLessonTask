@@ -17,7 +17,7 @@ namespace synergyLessonTask.Task2
         {
             int year = GetCounterYear();
             Console.WriteLine(year);
-        }
+        } 
         // Вспомогательный метод, который возвращает текущий год.
         internal static int GetCounterYear() => DateTime.Now.Year;
     }
