@@ -1,0 +1,7 @@
+﻿namespace synergyLessonTask.Task8
+{
+    public class Boock
+    {
+        
+    }
+}

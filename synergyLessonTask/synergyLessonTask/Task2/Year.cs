@@ -13,10 +13,11 @@ namespace synergyLessonTask.Task2
     internal class Year
     {
         // Главный метод программы, который выводит текущий год на экран.
-        private static void Main()
+        private static void year()
         {
             int year = GetCounterYear();
             Console.WriteLine(year);
+            
         } 
         // Вспомогательный метод, который возвращает текущий год.
         internal static int GetCounterYear() => DateTime.Now.Year;
