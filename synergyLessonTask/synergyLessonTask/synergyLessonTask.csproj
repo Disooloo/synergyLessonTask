@@ -39,6 +39,7 @@
   <ItemGroup>
     <Compile Include="Manager.cs" />
     <Compile Include="Task10\Task10.cs" />
+    <Compile Include="Task11\Task11.cs" />
     <Compile Include="Task1\Task1.cs" />
     <Compile Include="Task2\Year.cs" />
     <Compile Include="Task7\Task7.cs" />

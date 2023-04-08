@@ -14,7 +14,7 @@ namespace synergyLessonTask
         static void Main()
         {
             //Task7.Task7.getTest7();
-            Task10.Task10.getTest10();
+            Task11.Task11.getTest11();
         }
     }
 }
