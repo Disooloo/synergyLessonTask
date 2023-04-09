@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yearUnitTest", "yearUnitTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirtwindowsAppTask3", "FirtwindowsAppTask3\FirtwindowsAppTask3.csproj", "{AA92958B-E99D-4610-BA10-A7A3B55CE905}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "synergyLessonTask2", "synergyLessonTask2\synergyLessonTask2.csproj", "{6A9C96E7-5B93-4373-9BB1-C68872A2AD99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AA92958B-E99D-4610-BA10-A7A3B55CE905}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA92958B-E99D-4610-BA10-A7A3B55CE905}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA92958B-E99D-4610-BA10-A7A3B55CE905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A9C96E7-5B93-4373-9BB1-C68872A2AD99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9C96E7-5B93-4373-9BB1-C68872A2AD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9C96E7-5B93-4373-9BB1-C68872A2AD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9C96E7-5B93-4373-9BB1-C68872A2AD99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

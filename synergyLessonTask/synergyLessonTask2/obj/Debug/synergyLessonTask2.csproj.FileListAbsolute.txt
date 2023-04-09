@@ -1,0 +1,8 @@
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask2\bin\Debug\synergyLessonTask2.exe.config
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask2\bin\Debug\synergyLessonTask2.exe
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask2\bin\Debug\synergyLessonTask2.pdb
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask2\obj\Debug\synergyLessonTask2.csproj.AssemblyReference.cache
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask2\obj\Debug\synergyLessonTask2.csproj.SuggestedBindingRedirects.cache
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask2\obj\Debug\synergyLessonTask2.csproj.CoreCompileInputs.cache
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask2\obj\Debug\synergyLessonTask2.exe
+D:\Project\Синергия\git\synergyLessonTask\synergyLessonTask\synergyLessonTask2\obj\Debug\synergyLessonTask2.pdb
