@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Net.Http;
+using System.Net.Http.Headers;
 
 namespace synergyLessonTask.Task9
 {
@@ -15,32 +18,31 @@ namespace synergyLessonTask.Task9
 
             Console.WriteLine($"1 - {numInts[0,0,0]}\n2 - {numInts[1,0,0]}\n3 - {numInts[0,1,1]}");
 
-           /*
-            const int length = 3;
-            string[] people = new string[length];
 
-            for (int i = 0; i < length; i++)
-                people[i] = Console.ReadLine();
+        }
 
-            Console.Clear();
+           
+        private static void Abstract()
+        {
+             const int length = 3;
+             string[] people = new string[length];
 
-            for (int i = 0;i < length; i++)
-                Console.WriteLine($"Индекс {i} - {people[i]}");
+             for (int i = 0; i < length; i++)
+                 people[i] = Console.ReadLine();
 
-            //Console.WriteLine(people[1]);
-         
+             Console.Clear();
 
+             for (int i = 0;i < length; i++)
+                 Console.WriteLine($"Индекс {i} - {people[i]}");
 
-            int[][] number = new int[][] {
-                new int[] {1, 3, 4, 5},
-                new int[] {3, 4}
-            };
+             //Console.WriteLine(people[1]);
 
-            Console.WriteLine($"5 - {number[0][3]}\n3 - ({number[0][1]},{number[1][0]})");
+             int[][] number = new int[][] {
+                 new int[] {1, 3, 4, 5},
+                 new int[] {3, 4}
+             };
 
-
-            */
-
+             Console.WriteLine($"5 - {number[0][3]}\n3 - ({number[0][1]},{number[1][0]})");
         }
     }
 }
