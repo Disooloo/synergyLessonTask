@@ -51,6 +51,8 @@
     <Compile Include="Task4\DZ.cs" />
     <Compile Include="Task4\InvalideDamageException.cs" />
     <Compile Include="Task4\Task4.cs" />
+    <Compile Include="Task5\DZ.cs" />
+    <Compile Include="Task5\Task5.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

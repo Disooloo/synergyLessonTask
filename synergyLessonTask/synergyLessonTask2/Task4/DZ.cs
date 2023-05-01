@@ -34,7 +34,7 @@ namespace synergyLessonTask2.Task4
                 Console.WriteLine($"Добавлено {waterAmount} литров воды, текущее количество воды: {_currentWaterAmount} литров");
             }
         }
-
+        
         public void RemoveWater(int waterAmount)
         {
             int newWaterAmount = _currentWaterAmount -= waterAmount;
