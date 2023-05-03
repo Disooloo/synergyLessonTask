@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace synergyLessonTask2.Task5
 {
+    
     internal class DZ
     {
         const string path = @"C:\\Users\\kroli\\Desktop\\Новая папка\\Домашняя работа";
@@ -40,13 +41,10 @@ namespace synergyLessonTask2.Task5
                     }
                     Console.WriteLine(file);
                 }
-
             }
-
         }
-
         private static void CreateFile()
-        {
+        { 
             DirectoryInfo directoryInfo = new DirectoryInfo(path);
             string directory = "Директория ";
             string FilepathRar = @"C:\\Users\\kroli\\Desktop\\Новая папка\\Домашняя работа\\Архив.rar";
