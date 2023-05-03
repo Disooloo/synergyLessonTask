@@ -10,7 +10,7 @@ namespace synergyLessonTask2
     {
         static void Main(string[] args)
         {
-            Task6.Task6.GetTask6();
+            Task7.Task7.GetTask7();
         }
     }
 }
